@@ -5,8 +5,8 @@ It doesn’t matter what app you're using, the trigger works system-wide.
 
 Any link you want to open directly can be set in this script. 
 
-I did it to open my spotify playlist online for background work music. 
----
+I did it to open my spotify playlist online for background work music :)  
+
 
 ## What it does
 - Watches for the Tab key being held down  
