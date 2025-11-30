@@ -22,7 +22,7 @@ I did it to open my spotify playlist online for background work music.
 Download it from here:  
 https://www.autohotkey.com/
 
-### 2. Clone this repo
+### 2. Create New File and edit it
 
 ### 3. Tweaking the Script
 
@@ -43,5 +43,3 @@ Any URL works. Be it documentation, news, playlists, dashboards, whatever.
 To automatically have this script run in background all the time from the moment windows is started.
 
 ```sh
-git clone https://github.com/yourusername/TabHoldBraveLauncher.git
-cd TabHoldBraveLauncher
